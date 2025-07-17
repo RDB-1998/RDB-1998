@@ -1,6 +1,6 @@
 # Hi, I'm Radoslav 👋
 
- With over 6 years of trading experience in the financial markets, I’m diving into learning Python and related data tools to understand their applications in quantitative finance and trading.
+`With over 6 years of trading experience in the financial markets, I’m diving into learning Python and related data tools to understand their applications in quantitative finance and trading.`
 
    I'm driven by decision-making backed by data not luck and how probabilities can create an edge in the financial markets.
 
