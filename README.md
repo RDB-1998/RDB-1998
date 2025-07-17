@@ -10,13 +10,13 @@
 - Data analysis and visualization with Pandas and financial datasets
 
 💻 Skills:
-  `Python - Basics`
-  `Pandas - Basics` 
-  `SQL - Basics` 
-  `HTML` `CSS` 
-  `CRM Tools`
-  `Fundamental Financial Market Analysis`
-  `Technical Financial Market Analysis`
+ - `Python - Basics`
+ - `Pandas - Basics` 
+ - `SQL - Basics` 
+ - `HTML` `CSS` 
+ - `CRM Tools`
+ - `Fundamental Financial Market Analysis`
+ - `Technical Financial Market Analysis`
 
 📚 Background:
 - 6+ years of hands-on trading experience (crypto, futures, options)
@@ -27,3 +27,6 @@
 📍 Based in Bulgaria | Open to relocation  
 📬 Contact: [r.bonev1998@gmail.com](mailto:r.bonev1998@gmail.com)
 ☎️ +359 89 246 3327
+
+
+
