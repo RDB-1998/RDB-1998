@@ -25,7 +25,7 @@
 
 
 📍 Based in Bulgaria | Open to relocation  
-📬 Contact: [r.bonev1998@gmail.com](mailto:r.bonev1998@gmail.com)
+📬 Contact: [r.bonev1998@gmail.com](mailto:r.bonev1998@gmail.com) | 
 ☎️ +359 89 246 3327
 
 
