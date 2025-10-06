@@ -1,27 +1,27 @@
-# Hi, I'm Radoslav 👋
+# Hey, I'm Radoslav 👋
 
-`With over 6 years of trading experience in the financial markets, I’m diving into learning Python and related data tools to understand their applications in quantitative finance and trading.`
-
-   I'm driven by decision-making backed by data, not luck and how probabilities can create an edge in the financial markets.
+`Exploring Python for financial data analysis, backtesting simple trading strategies, and translating probability and statistics concepts into code experiments.`
 
 🚀 What I'm currently up to:
-- Learning Python and how it can be used for simulating decision-making in the financial markets  
-- Strategy development and outcome tracking (backtesting) using statistical methods  
-- Data analysis and visualization with Pandas and financial datasets
+ * Learning Python for financial data analysis and visualization.
+ * Backtesting simple trading strategies using Pandas and NumPy.
+ * Exploring financial datasets and experimenting with strategy ideas.
+ * Translating probability and statistics concepts into Python experiments.
 
 💻 Skills:
  - `Python - Basics`
- - `Pandas - Basics` 
- - `SQL - Basics` 
+ - `Pandas - Basics`
+ - `NumPy - Basics` 
+ - `Matplotlib - Basics` 
  - `HTML` `CSS` 
  - `CRM Tools`
  - `Fundamental Financial Market Analysis`
  - `Technical Financial Market Analysis`
 
 📚 Background:
-- 6+ years of hands-on trading experience (crypto, futures, options)
-- Sales and business development in fintech and financial services
-- Content creation and market research in the crypto industry
+- 6+ years of trading experience (crypto, futures, options)
+- Sales / Business development in Fintech and Financial services
+- Content creation / Market research in the crypto industry
 
 
 📍 Based in Bulgaria | Open to relocation  
