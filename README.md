@@ -14,10 +14,7 @@
  - `NumPy - Basics` 
  - `Matplotlib - Basics` 
  - `HTML` `CSS` 
- - `CRM Tools`
- - `Fundamental Financial Market Analysis`
- - `Technical Financial Market Analysis`
-
+ 
 📚 Background:
 - 6+ years of trading experience (crypto, futures, options)
 - Sales / Business development in Fintech and Financial services
