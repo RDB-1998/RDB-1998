@@ -16,9 +16,8 @@
  - `HTML` `CSS` 
  
 📚 Background:
-- 6+ years of trading experience (crypto, futures, options)
-- Sales / Business development in Fintech and Financial services
-- Content creation / Market research in the crypto industry
+- 6+ years of Trading experience (crypto, futures, options)
+- Sales / Business Development in Fintech and Financial services
 
 
 📍 Based in Bulgaria | Open to relocation  
