@@ -16,7 +16,7 @@
  - `HTML` `CSS` 
  
 📚 Background:
-- 6+ years of Trading experience (crypto, futures, options)
+- 6+ years of Trading experience (Crypto, Futures, CFD's)
 - Sales / Business Development in Fintech and Financial services
 
 
