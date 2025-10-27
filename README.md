@@ -1,4 +1,4 @@
-# Hey, I'm Radoslav 👋
+# Hey, I'm Radoslav 👋🏻
 
 `Exploring Python for financial data analysis, backtesting simple trading strategies, and translating probability and statistics concepts into code experiments.`
 
