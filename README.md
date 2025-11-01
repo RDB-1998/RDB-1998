@@ -5,7 +5,7 @@
 🚀 What I'm currently up to:
 * Designing and backtesting crypto & futures strategies (BTC, ETH, ES, NQ) using **Pandas, NumPy, Matplotlib, and Cursor**
 * Building **Monte Carlo simulations** to stress-test edge, drawdowns, and statistical robustness
-* Translating **EV, Bayes, LLN, CLT, and Confidence Intervals** into live trading logic
+* Translating **EV, Bayes, LLN, CLT, and Confidence Intervals** into trading logic
 * Using **DataBento** for quality market data
 
 💻 Skills:
