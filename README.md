@@ -1,6 +1,6 @@
 # Hey, I'm Radoslav 👋🏻
 
-**Self-taught in Python for trading** — from zero to backtests, Monte Carlo simulations, and probability-driven strategies.
+#### ***Self-taught in Python for trading** — from zero to backtests, Monte Carlo simulations, and probability-driven strategies.*
 
 🚀 What I'm currently up to:
 * Designing and backtesting crypto & futures strategies (BTC, ETH, ES, NQ) using **Pandas, NumPy, Matplotlib, and Cursor**
