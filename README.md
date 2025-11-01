@@ -1,28 +1,28 @@
 # Hey, I'm Radoslav 👋🏻
 
-`Exploring Python for financial data analysis, backtesting simple trading strategies, and translating probability and statistics concepts into code experiments.`
+**Self-taught in Python for trading** — from zero to backtests, Monte Carlo simulations, and probability-driven strategies.
 
 🚀 What I'm currently up to:
- * Learning Python for financial data analysis and visualization.
- * Backtesting simple trading strategies using Pandas and NumPy.
- * Exploring financial datasets and experimenting with strategy ideas.
- * Translating probability and statistics concepts into Python experiments.
+* Designing and backtesting crypto & futures strategies (BTC, ETH, ES, NQ) using **Pandas, NumPy, Matplotlib, and Cursor**
+* Building **Monte Carlo simulations** to stress-test edge, drawdowns, and statistical robustness
+* Translating **EV, Bayes, LLN, CLT, and Confidence Intervals** into live trading logic
+* Using **DataBento** for quality market data
 
 💻 Skills:
- - `Python - Basics`
- - `Pandas - Basics`
- - `NumPy - Basics` 
- - `Matplotlib - Basics` 
- - `HTML` `CSS` 
- 
+* **Python** – Strategy logic, vectorized operations, simulation
+* **Pandas** – Data cleaning, time-series analysis, performance metrics
+* **NumPy** – Statistical modeling, random walks, covariance
+* **Matplotlib** – Equity curves, distribution plots, volatility analysis
+* **Cursor** – Rapid strategy prototyping and backtesting
+* HTML/CSS
+
 📚 Background:
-- 6+ years of Trading experience (Crypto, Futures, CFD's)
-- Sales / Business Development in Fintech and Financial services
+* **6+ years manual trading** – US Futures (ES/NQ), Crypto (BTC/ETH), CFDs
+* Discretionary P&L tracking with statistical post-mortems (risk/reward, regime shifts)
+* Former Sales / BD in Fintech – speaks fluent markets and execution
 
-
-📍 Based in Bulgaria | Open to relocation  
-📬 Contact: [r.bonev1998@gmail.com](mailto:r.bonev1998@gmail.com) | 
-☎️ +359 89 246 3327
+📍 Bulgaria | **Open to relocation**  
+📬 r.bonev1998@gmail.com | ☎️ +359 89 246 3327
 
 
 
