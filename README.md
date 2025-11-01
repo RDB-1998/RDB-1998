@@ -14,7 +14,6 @@
 * **NumPy** – Statistical modeling, random walks, covariance
 * **Matplotlib** – Equity curves, distribution plots, volatility analysis
 * **Cursor** – Rapid strategy prototyping and backtesting
-* HTML/CSS
 
 📚 Background:
 * **6+ years manual trading** – US Futures (ES/NQ), Crypto (BTC/ETH), CFDs
