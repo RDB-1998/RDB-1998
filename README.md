@@ -17,8 +17,8 @@
 
 📚 Background:
 * **6+ years manual trading** – US Futures (ES/NQ), Crypto (BTC/ETH), CFDs
-* Discretionary P&L tracking with statistical post-mortems (risk/reward, regime shifts)
-* Former Sales / BD in Fintech – speaks fluent markets and execution
+* Discretionary P&L tracking and statistical analysis (risk/reward, regime shifts)
+* Sales/BD in Fintech – fluent in markets and execution
 
 📍 Bulgaria | **Open to relocation**  
 📬 r.bonev1998@gmail.com | ☎️ +359 89 246 3327
