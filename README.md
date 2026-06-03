@@ -8,10 +8,10 @@ Most of my technical work is built with Python, Pandas, NumPy, Matplotlib, Jupyt
 
 ## Current Focus
 
-- Futures and index markets: ES/NQ, opening range behavior, volatility filters, market sessions.
-- Crypto and CFD-style markets: BTC/ETH trend, risk, drawdown, and regime comparison.
-- Strategy validation: backtests, out-of-sample checks, Monte Carlo simulation, robustness review.
-- Trading operations: market monitoring, issue documentation, escalation-ready notes, and platform/data quality awareness.
+- Futures and Index markets: ES/NQ, Opening Range Behavior, Volatility Filters, Market Sessions.
+- Crypto and CFD-style markets: BTC/ETH trend, Risk, Drawdown, and Regime Comparison.
+- Strategy validation: Backtests, Out-Of-Sample checks, Monte Carlo simulations, Robustness review.
+- Trading operations: Market Monitoring, Issue documentation, Escalation-ready notes, and Platform/Data quality awareness.
 
 ## Featured Work
 
@@ -32,8 +32,11 @@ Most of my technical work is built with Python, Pandas, NumPy, Matplotlib, Jupyt
 
 ## Role Direction
 
-I am most interested in roles around trading operations, market risk support, execution/platform support, junior trading analysis, market data analysis, and financial markets research assistance.
+I am most interested in roles around Trading Operations, Market Risk support, Execution/Platform support, Junior Trading Analysis, Market Data Analysis, and Financial Markets Research assistance.
 
 Location: Bulgaria | Open to remote work and relocation
 
-Contact: r.bonev1998@gmail.com
+### Contact Information
+
+Email 📧: r.bonev1998@gmail.com
+Phone 📞: +359 89 246 3327 
