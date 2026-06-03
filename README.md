@@ -17,6 +17,8 @@ Most of my technical work is built with Python, Pandas, NumPy, Matplotlib, Jupyt
 
 - [Python Trading & Probability Experiments](https://github.com/RDB-1998/Python-Trading-Probability): Self-directed financial markets research portfolio covering probability, risk metrics, crypto analysis, futures backtesting, and Monte Carlo simulation.
 
+- [NQ Microstructure Program Null Case Study](https://github.com/RDB-1998/Python-Trading-Probability/tree/main/case_studies/nq_microstructure_program_null): Literature-guided, LLM-assisted NQ futures research summary that failed its hard gate after cost-aware validation, preserving clean held-out data for future work.
+
 - [ES/NQ Opening Range Breakout Study](https://github.com/RDB-1998/Python-Trading-Probability/tree/main/notebooks/trading_analyses): Intraday futures research using historical ES/NQ data, opening range logic, VWAP/volatility filters, parameter sweeps, out-of-sample review, Monte Carlo simulation, and cross-validation concepts.
 
 - [BTC/ETH Risk & Return Analysis](https://github.com/RDB-1998/Python-Trading-Probability/blob/main/notebooks/trading_analyses/btc_eth_analysis.ipynb): Comparative analysis of returns, volatility, Sharpe ratio, and drawdowns to understand risk-adjusted behavior across major crypto assets.
