@@ -39,4 +39,5 @@ Location: Bulgaria | Open to remote work and relocation
 ## Contact Information
 
 Email 📧: r.bonev1998@gmail.com
+
 Phone 📞: +359 89 246 3327 
