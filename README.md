@@ -1,6 +1,6 @@
 # Radoslav Bonev
 
-Financial markets research | Trading operations | Python-assisted analysis
+Financial Narkets Research | Trading Operations | Python-assisted Analysis
 
 I work at the intersection of discretionary trading, market structure, and practical data analysis. My current focus is futures, CFDs, crypto markets, and risk-aware strategy evaluation: turning trading ideas into testable research, documenting assumptions, and reviewing outcomes through probability, drawdowns, and execution context.
 
