@@ -1,6 +1,6 @@
 # Radoslav Bonev
 
-Financial Narkets Research | Trading Operations | Python-assisted Analysis
+### Financial Markets Research | Trading Operations | Python-assisted Analysis
 
 I work at the intersection of discretionary trading, market structure, and practical data analysis. My current focus is futures, CFDs, crypto markets, and risk-aware strategy evaluation: turning trading ideas into testable research, documenting assumptions, and reviewing outcomes through probability, drawdowns, and execution context.
 
@@ -36,7 +36,7 @@ I am most interested in roles around Trading Operations, Market Risk support, Ex
 
 Location: Bulgaria | Open to remote work and relocation
 
-### Contact Information
+## Contact Information
 
 Email 📧: r.bonev1998@gmail.com
 Phone 📞: +359 89 246 3327 
