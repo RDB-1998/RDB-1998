@@ -19,6 +19,8 @@ Most of my technical work is built with Python, Pandas, NumPy, Matplotlib, Jupyt
 
 - [NQ Microstructure Program Null Case Study](https://github.com/RDB-1998/Python-Trading-Probability/tree/main/case_studies/nq_microstructure_program_null): Literature-guided, LLM-assisted NQ futures research summary that failed its hard gate after cost-aware validation, preserving clean held-out data for future work.
 
+- [TQQQ Opening Range Breakout Replication](https://github.com/RDB-1998/Python-Trading-Probability/tree/main/case_studies/tqqq_orb_replication): 5-minute ORB replication/adaptation using Alpaca 1-minute data, comparing H/L and ATR stop models with caveats around leverage, compounding, and follow-up validation.
+
 - [ES/NQ Opening Range Breakout Study](https://github.com/RDB-1998/Python-Trading-Probability/tree/main/notebooks/trading_analyses): Intraday futures research using historical ES/NQ data, opening range logic, VWAP/volatility filters, parameter sweeps, out-of-sample review, Monte Carlo simulation, and cross-validation concepts.
 
 - [BTC/ETH Risk & Return Analysis](https://github.com/RDB-1998/Python-Trading-Probability/blob/main/notebooks/trading_analyses/btc_eth_analysis.ipynb): Comparative analysis of returns, volatility, Sharpe ratio, and drawdowns to understand risk-adjusted behavior across major crypto assets.
