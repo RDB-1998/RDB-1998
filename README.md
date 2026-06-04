@@ -2,7 +2,7 @@
 
 ### Financial Markets Research | Trading Operations | Python-assisted Analysis
 
-I work at the intersection of Algorithmic trading, Market Structure, and practical Data Analysis. My current focus is Futures, CFDs, Crypto Markets, and Risk-Aware strategy evaluation: turning trading ideas into testable research, documenting assumptions, and reviewing outcomes through probability, drawdowns, and execution context.
+I work at the intersection of Algorithmic Trading, Market Structure, and practical Data Analysis. My current focus is Futures, CFDs, Crypto Markets, and Risk-Aware strategy evaluation: turning trading ideas into testable research, documenting assumptions, and reviewing outcomes through probability, drawdowns, and execution context.
 
 Most of my technical work is built with Python, Pandas, NumPy, Matplotlib, Jupyter, and AI-assisted coding tools such as Cursor/Codex. The core value I bring is research framing, market reasoning, risk interpretation, and the ability to communicate what a test does and does not prove.
 
