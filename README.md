@@ -42,8 +42,10 @@ Location: Bulgaria | Open to remote work and relocation
 
 ## Contact Information
 
-Email 📧: r.bonev1998@gmail.com
+CV: [Radoslav_Bonev_CV_Trading_Operations.pdf](Radoslav_Bonev_CV_Trading_Operations.pdf)
 
-Phone 📞: +359 89 246 3327 
+Email: r.bonev1998@gmail.com
 
-LinkedIn 🌐: https://www.linkedin.com/in/radoslav-bonev/
+Phone: +359 89 246 3327
+
+LinkedIn: https://www.linkedin.com/in/radoslav-bonev/
